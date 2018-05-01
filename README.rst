@@ -42,7 +42,7 @@ k8snode1.home
 
 I'm using dns masq as DHCP proxy just for iPXE.
 
-1. cd ``docker-stuff`` and ``docker-compose up matchbox``
+1. cd ``docker-stuff`` and ``docker-compose up dnsmasq``
 
 Tips:
 
